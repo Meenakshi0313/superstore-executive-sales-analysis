@@ -1,2 +1,26 @@
-# superstore-executive-sales-analysis
-Two-page interactive Tableau dashboard (1200x900) analyzing regional profitability, monthly sales/profit trends, and profit leakage from heavy discounting across product sub-categories and shipping modes.
+# Superstore Executive Sales & Discount Leakage Analysis
+
+An interactive two-page **Tableau** dashboard (`1200x900`) built to evaluate revenue growth, regional profitability, and margin erosion caused by discounting across segments, shipping modes, and product sub-categories.
+
+## Live Dashboard & Previews
+- **Tableau Public Link:** *[Add your Tableau Public URL here]*
+
+### Page 1: Executive Overview & Financial Health
+![Executive Overview & Financial Health](images/01_executive_overview.png)
+
+### Page 2: Discount Leakage & Deep-Dive Analysis
+![Discount Leakage & Deep-Dive Analysis](images/02_discount_leakage_deep_dive.png)
+
+## Key Dashboard Highlights
+- **Executive Overview & Financial Health:** Tracks headline KPIs (**Total Sales**, **Total Profit**, **Overall Profit Margin %**, **Total Orders**) alongside a regional profit/sales map, **Monthly Sales Trend** (Sales bars + Profit line with abbreviated month labels), **Top 10 Products by Sales**, and a **Category / Sub-Category** breakdown.
+- **Discount Leakage & Deep-Dive Analysis:** Highlights discounting impact via **Average Discount Rate**, **Total Loss from Heavy Discount**, **Loss Making Orders %**, and **Average Shipping Days**, paired with **Profitability by Discount Tier**, **Sub-Category Profit Loss Ranking**, a **Customer Segment & Shipping Mode Matrix**, and a **Discount % vs. Profit Correlation Scatter Plot**.
+- **Interactive Controls & UX:** Includes a collapsible left filter drawer (`Year`, `Region`, `Segment` on Page 1; `Year`, `Sub Category`, `Ship Mode`, `Discount Tier` on Page 2), custom tooltips across visuals, and smooth page navigation buttons.
+
+## Dataset & Preparation
+- **Source:** Superstore sales dataset (`clean_superstore.csv`), filtered and analyzed dynamically by year (e.g., `2017` view) and dimensional slices.
+- **Calculated Metrics:** Profit margin ratios, discount tiers, heavy-discount loss tracking, loss-making order share, and shipping turnaround metrics.
+
+## Repository Structure
+- `tableau/` — Tableau workbook file
+- `images/` — High-resolution dashboard screenshots for documentation
+- `data/` — Cleaned dataset used for the analysis
