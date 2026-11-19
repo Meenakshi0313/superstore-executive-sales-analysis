@@ -3,7 +3,7 @@
 An interactive two-page **Tableau** dashboard (`1200x900`) built to evaluate revenue growth, regional profitability, and margin erosion caused by discounting across segments, shipping modes, and product sub-categories.
 
 ## Live Dashboard & Previews
-- **Tableau Public Link:** *[Add your Tableau Public URL here]*
+- **Tableau Public Link:** *[(https://public.tableau.com/app/profile/meenakshi.singh1303/viz/Superstore_Executive_Sales_Analysis/ExecutiveOverviewFinancialHealth)]*
 
 ### Page 1: Executive Overview & Financial Health
 ![Executive Overview & Financial Health](images/01_executive_overview.png)
