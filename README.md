@@ -3,13 +3,13 @@
 An interactive two-page **Tableau** dashboard (`1200x900`) built to evaluate revenue growth, regional profitability, and margin erosion caused by discounting across segments, shipping modes, and product sub-categories.
 
 ## Live Dashboard & Previews
-- **Tableau Public Link:** *[(https://public.tableau.com/app/profile/meenakshi.singh1303/viz/Superstore_Executive_Sales_Analysis/ExecutiveOverviewFinancialHealth)]*
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-View%20Live-E97627?logo=tableau&logoColor=white)][(https://public.tableau.com/app/profile/meenakshi.singh1303/viz/Superstore_Executive_Sales_Analysis/ExecutiveOverviewFinancialHealth)]
 
 ### Page 1: Executive Overview & Financial Health
-![Executive Overview & Financial Health](images/01_executive_overview.png)
+![Executive Overview & Financial Health](images/Executive Overview & Financial Health.png)
 
 ### Page 2: Discount Leakage & Deep-Dive Analysis
-![Discount Leakage & Deep-Dive Analysis](images/02_discount_leakage_deep_dive.png)
+![Discount Leakage & Deep-Dive Analysis](images/Discount Leakage & Deep-Dive Analysis.png)
 
 ## Key Dashboard Highlights
 - **Executive Overview & Financial Health:** Tracks headline KPIs (**Total Sales**, **Total Profit**, **Overall Profit Margin %**, **Total Orders**) alongside a regional profit/sales map, **Monthly Sales Trend** (Sales bars + Profit line with abbreviated month labels), **Top 10 Products by Sales**, and a **Category / Sub-Category** breakdown.
