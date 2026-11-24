@@ -11,7 +11,7 @@ An interactive two-page **Tableau** dashboard (`1200x900`) built to evaluate rev
 <details>
 <summary>🔍 Click here to view Executive Overview & Financial Health</summary>
 
-![Page 1: Executive Overview & Financial Health](images/1_Executive_Overview & Financial_Health.png)
+![Page 1: Executive Overview & Financial Health](images/images/1_Executive_Overview.png)
 
 </details>
 
@@ -19,7 +19,7 @@ An interactive two-page **Tableau** dashboard (`1200x900`) built to evaluate rev
 <details>
 <summary>🔍 Click here to view Discount Leakage & Deep-Dive Analysis</summary>
 
-![Page 2: Discount Leakage & Deep-Dive Analysis](images/2_Discount_Leakage & Deep-Dive_Analysis.png)
+![Page 2: Discount Leakage & Deep-Dive Analysis](images/images/2_Deep-Dive_Analysis.png)
 
 </details>
 
