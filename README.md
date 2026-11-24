@@ -11,13 +11,17 @@ An interactive two-page **Tableau** dashboard (`1200x900`) built to evaluate rev
 <details>
 <summary>🔍 Click here to view Executive Overview & Financial Health</summary>
 
-![Page 1: Executive Overview & Financial Health](images/Executive Overview & Financial Health.png)
+![Page 1: Executive Overview & Financial Health](images/1_Executive_Overview & Financial_Health.png)
+
+</details>
 
 ### Page 2: Discount Leakage & Deep-Dive Analysis
 <details>
 <summary>🔍 Click here to view Discount Leakage & Deep-Dive Analysis</summary>
 
-![Page 2: Discount Leakage & Deep-Dive Analysis](images/Discount Leakage & Deep-Dive Analysis.png)
+![Page 2: Discount Leakage & Deep-Dive Analysis](images/2_Discount_Leakage & Deep-Dive_Analysis.png)
+
+</details>
 
 ## Key Dashboard Highlights
 - **Executive Overview & Financial Health:** Tracks headline KPIs (**Total Sales**, **Total Profit**, **Overall Profit Margin %**, **Total Orders**) alongside a regional profit/sales map, **Monthly Sales Trend** (Sales bars + Profit line with abbreviated month labels), **Top 10 Products by Sales**, and a **Category / Sub-Category** breakdown.
